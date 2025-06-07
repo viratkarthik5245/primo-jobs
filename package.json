@@ -30,7 +30,9 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
+    "@babel/core": "^7.27.4",
     "@babel/parser": "^7.27.5",
+    "@babel/preset-env": "^7.27.2",
     "@babel/traverse": "^7.27.4",
     "@types/node": "^20.8.3",
     "@types/react": "^18.2.15",
